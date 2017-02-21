@@ -1,7 +1,7 @@
 <?php
 if(!isset($_REQUEST['date']))
 {
-	header("location: index.php");
+	header("location: index.php"); 
 }
 else
 {
