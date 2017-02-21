@@ -7,7 +7,7 @@ include('config.php');
 	<div id="templatemo_main">
 		<div id="templatemo_main_top">
         
-        	<div id="templatemo_content">
+        	<div id="templatemo_content"> 
 			
 			<?php
 			/* ===================== Pagination Code Starts ================== */
