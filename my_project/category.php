@@ -4,7 +4,7 @@ if(!isset($_REQUEST['id']))
 	header("location: index.php");
 }
 else
-{
+{ 
 	$id=$_REQUEST['id'];
 }
 
