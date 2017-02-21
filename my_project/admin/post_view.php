@@ -34,7 +34,7 @@ if($_SESSION['name']!="admin")
 		<td> <?php echo $i; ?> </td>
 		<td><?php echo $row['post_title']; ?></td>
 		<td><a class="fancybox" href="#inline<?php echo $i; ?>">view</a> 
-		<div id="inline<?php echo $i; ?>" style="width:600px; display:none;">
+		<div id="inline<?php echo $i; ?>" style="width:600px; display:none;"> 
 		<h3 style="border-bottom:2px solid black">View all Data</h3>
 		<p>
 		<form action="" method="post">
