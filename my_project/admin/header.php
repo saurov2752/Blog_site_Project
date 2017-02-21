@@ -51,5 +51,5 @@
 		<li><a href="comment-approve.php">View Comments</a></li>
 		</ul>
 		
-		</div>
+		</div> 
 				<div id="content">
