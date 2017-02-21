@@ -28,5 +28,5 @@ if($_SESSION['name']!="admin")
 	
 	$statement=$db->prepare("delete from tbl_post where post_id=?");
 	$statement->execute(array($id));
-	header('location:post_view.php');;
+	header('location:post_view.php');
 ?>
