@@ -29,7 +29,7 @@ if(isset($_POST['form1']))
 		//echo $_POST['description']."<br>";
 		//echo $_POST['cat_id']."<br>";
 		
-		$statement=$db->prepare("show table status like 'tbl_post'");
+		$statement=$db->prepare("show table status like 'tbl_post'"); 
 		$statement->execute();
 		$result=$statement->fetchAll();
 		foreach($result as $row)
