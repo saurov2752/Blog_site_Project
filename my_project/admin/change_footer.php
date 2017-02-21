@@ -69,4 +69,4 @@ if(isset($success)) echo "<div class='success'>".$success."</div>";
 </form>
 
 
-<?php include("footer.php"); ?>
+<?php include("footer.php"); ?> 
