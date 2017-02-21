@@ -2,7 +2,7 @@
 include('config.php');
 if(!isset($_REQUEST['id']))
 {
-	header("location: index.php");
+	header("location: index.php"); 
 }
 else
 {
