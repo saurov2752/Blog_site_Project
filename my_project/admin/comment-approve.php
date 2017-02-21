@@ -34,7 +34,7 @@ if($_SESSION['name']!="admin")
 	$result=$statement->fetchAll(PDO::FETCH_ASSOC);
 	foreach($result as $row)
 	{
-		$new_footer=$row['description'];
+		$new_footer=$row['description']; 
 	}
 	
 	
