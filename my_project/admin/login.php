@@ -64,7 +64,7 @@ if(isset($_POST['form1']))
 		}	
 		?>
 
-<form action="" method="post">
+<form action="" method="post"> 
 	<table>
 	<tr>
 		<td>Username</td>
