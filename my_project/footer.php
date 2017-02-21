@@ -60,13 +60,7 @@
 					}
 				?>
                 
-                
-                
-                <div id="ads">
-                	<a href="#"><img src="images/templatemo_200x100_banner.jpg" alt="banner 1" /></a>
-                    
-                    <a href="#"><img src="images/templatemo_200x100_banner.jpg" alt="banner 2" /></a>
-                </div>
+              
                 
             </div>
         
@@ -92,5 +86,5 @@
 	?>
 </div>
 
-<div align=center>This template  downloaded form <a href='http://all-free-download.com/free-website-templates/'>free website templates</a></div></body>
+</body>
 </html>
