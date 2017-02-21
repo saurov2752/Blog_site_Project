@@ -34,7 +34,7 @@ if(isset($_POST['form1']))
 	{
 		$msg=$e->getMessage();
 	}
-}
+} 
 ?>
 
 <?php
